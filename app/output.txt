@@ -1,0 +1,4 @@
+REPOSITORY               TAG       IMAGE ID       CREATED        SIZE
+video-face-recognition   latest    97986d44b8d3   19 hours ago   2.15GB
+<none>                   <none>    a81681ea7324   19 hours ago   1.15GB
+python                   3.8       5e51aed29a27   5 days ago     913MB
